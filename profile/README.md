@@ -24,6 +24,7 @@ Warning: Frenzy mode is chaotic fun for everyone except the sucker who is gettin
 ## Official SDKs
 The following is a list of SDKs we have created to make integrating certian games even easier. Is there one missing? Feel free to open an issue, or head over to the discussions to suggest it! If you want, you can even create one yourself! Simply refer to the [BackSeatGamer Reverse Proxy](https://github.com/BackSeatGamerCode/ReverseProxy) documentation. When you are finished your SDK, let us know and we will add it to the list of Unofficial SDKs!
 
+- [Python SDK](https://github.com/BackSeatGamerCode/PythonSDK) - A generic SDK for Python-based modding APIs
 - [Factorio SDK](https://github.com/BackSeatGamerCode/FactorioSDK) - A template mod for integrating with [Factorio](https://www.factorio.com/)
 - [Java SDK](https://github.com/BackSeatGamerCode/JavaSDK) - A generic SDK for Java-based modding APIs (example: Minecraft)
 - [OpenRCT2 SDK](https://github.com/BackSeatGamerCode/OpenRCT2SDK) - A template mod for integrating with [Open Roller Coaster Tycoon 2](https://openrct2.org/)
