@@ -28,6 +28,7 @@ The following is a list of SDKs we have created to make integrating certian game
 - [Factorio SDK](https://github.com/BackSeatGamerCode/FactorioSDK) - A template mod for integrating with [Factorio](https://www.factorio.com/)
 - [Java SDK](https://github.com/BackSeatGamerCode/JavaSDK) - A generic SDK for Java-based modding APIs (example: Minecraft)
 - [OpenRCT2 SDK](https://github.com/BackSeatGamerCode/OpenRCT2SDK) - A template mod for integrating with [Open Roller Coaster Tycoon 2](https://openrct2.org/)
+- [C# SDK](https://github.com/BackSeatGamerCode/CSharpSDK) - A generic SDK for C#-based modding APIs
 
 
 Thanks for using BackSeatGamer, and happy modding!
